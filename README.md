@@ -1,3 +1,9 @@
+# FORK customization(s) for Brav’Eau
+
+2025-02-06: We removed the default title for map's markers to avoid displaying raw HTML.
+
+---
+
 # grist-widget
 A repository of Grist custom widgets that have no back-end requirements.
 
